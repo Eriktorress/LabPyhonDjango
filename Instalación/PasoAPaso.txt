@@ -1,0 +1,12 @@
+1.- Instalar python > https://www.python.org/downloads/
+2.- Verificar instalación de python > python --version
+3.- Instalar pip (Gestor de paquetes de python) > https://bootstrap.pypa.io/get-pip.py
+4.- Para instalar pip ejecutar siguiente comando > python [ruta_del_archivo]/get-pip.py
+5.- Verificación instalación de pip > pip --version
+6.- Opcionalmente, instalar extensión visual code > python extension pack
+*.- Sitio con librerias de python > https://pypi.org/ 
+7.- Instalar entorno virtual > pip install virtualenv 
+8.- Verificar librerias instaladas en el host (equipo) > pip freeze
+9.- Crear entorno virtual > python -m venv entorno
+10.- Activar entorno virtual > Windows (/entorno/Script/active) / Linux (source entorno/bin/activate)
+11.- Instalar Framework Django > pip install Django
