@@ -1,3 +1,5 @@
+Fase: Preparar ambiente de desarrollo
+
 1.- Instalar python > https://www.python.org/downloads/
 2.- Verificar instalación de python > python --version
 3.- Instalar pip (Gestor de paquetes de python) > https://bootstrap.pypa.io/get-pip.py
@@ -10,3 +12,9 @@
 9.- Crear entorno virtual > python -m venv entorno
 10.- Activar entorno virtual > Windows (/entorno/Script/active) / Linux (source entorno/bin/activate)
 11.- Instalar Framework Django > pip install Django
+12.- Instalar librerias de archivos requierements.txt > pip install -r requirements.txt 
+
+Fase: Implementar Django "Aplicativo Web"
+1.- Crear proyecto en Django > django-admin startproject [nombre_proyecto]
+
+
